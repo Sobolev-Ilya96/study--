@@ -1,4 +1,7 @@
-﻿int[] array = { 1, 12, 31, 4, 18, 15, 16, 17, 18 };
+﻿//MethodArray
+
+
+int[] array = { 1, 12, 31, 4, 18, 15, 16, 17, 18 };
 
 int n = array.Length;
 int find = 18;
